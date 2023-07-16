@@ -1,0 +1,127 @@
+.background{
+    background-color: beige;
+}
+.title{
+    background-color: rgb(139, 67, 20);
+   height: 100px;
+    font-size: 20px;
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    color: rgb(71, 36, 2);
+padding: 10px;}
+    
+ 
+    .nav{
+        text-align: center;
+        font-size: medium;
+        background-color: rgb(139, 67, 20);
+        position: sticky;
+        top: 1px;
+    }
+    .heading{
+        font-family: 'Comfortaa', cursive;
+        color:  rgb(144, 75, 6);
+        text-align: center;
+         }
+
+    
+    span{
+        color:  rgb(0, 0, 0);;
+    }
+    .container{
+        
+        align-items: center;
+        width: 400px;
+        height: 220px;
+        border: 3px solid black;
+        text-align: justify ;
+        padding: 10px;
+        background-color: beige;
+    }
+.brand{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+    
+}
+.row{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    
+    text-align: justify;
+   width: 500px ;
+   
+   justify-content: center;
+   align-items: center;
+    
+}
+.col1{
+    margin: 10px;
+    margin-top: 20px;
+    
+
+}
+.col2{
+    text-align: justify;
+    
+   
+}
+.col3{margin: 10px;}
+.gallery{
+    display: flex;
+    flex-direction: column;
+    background-color: brown;
+    
+}
+.heading2{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    color: black;
+}
+.galbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.galbox2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.img{
+    width: 250px;
+    margin: 10px;
+}
+.query{
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+}
+.box1{
+    margin: 20px;
+    justify-content: center;
+    text-align: justify;
+}
+.footermain{
+    text-align: center;
+    background-color: azure;
+}
+a{
+    color: black;
+
+}
+.insta{
+    margin-right: 40px;
+}
+.fb{
+    margin-right: 40px;
+}
